@@ -20,7 +20,7 @@ ReportLab – For PDF generation
 
 Clone this repository
 
-git clone(https://github.com/VishalDamahe/RESUME-BUILDER-GUI/new/main?readme=1)
+git clone(https://github.com/Rishhh112004/Resume_Builder_GUI/tree/main)
 cd resume-builder-gui
 Install dependencies
 
